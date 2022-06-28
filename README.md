@@ -17,7 +17,7 @@
     - local experiments
         - allows making local tests before deploying
 
-### Commands learned in week 1:
+### Commands :
 
 - dataset: https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2021-01.parquet
 
