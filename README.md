@@ -1,4 +1,4 @@
-## Topics covered in week 1:
+- python
 - Docker
 - Docker Compose
 - PostgreSQL
